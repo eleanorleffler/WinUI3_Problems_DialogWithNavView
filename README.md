@@ -6,4 +6,4 @@ The UWP sample code does not break and works as expected.
 
 However, the WinUI3 Desktop sample code breaks when opening the ContentDialog.
 
-For more details about the WinUI issue, go to the issue [here](** Insert link here **). 
+For more details about the WinUI issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/2713). 
